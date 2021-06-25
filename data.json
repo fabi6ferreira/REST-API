@@ -1,0 +1,29 @@
+[
+	{
+        "id":1,
+		"nome": "Fábio Ferreira",
+        "idade": 28,
+        "curso": "Informática",
+        "ano": 3
+        
+	},
+	{
+        "id":2,
+		"nome": "Sandra",
+        "idade": 28,
+        "curso": "Enfermagem"
+	},
+    {
+        "id":3,
+		"nome": "Alice",
+        "idade": 28,
+        "curso": "Muita coisa ao mesmo tempo",
+        "ano": "Especialidade"
+    }, 
+    {
+        "id":4,
+		"nome": "Fátinha",
+        "idade": 46,
+        "curso": "Domestique"
+    }
+]
